@@ -1,0 +1,19 @@
+{
+  "name": "emailr",
+  "version": "1.1.0",
+  "description": "Review profiles, sending domains, saved templates and campaign statuses across Emailr workspaces you own or have access to. Discover workspaces and select one for each read. This read-only connector cannot send or schedule email, edit contacts, change DNS, publish campaigns or modify account settings.",
+  "author": {
+    "name": "Emailr",
+    "url": "https://emailr.dev"
+  },
+  "homepage": "https://emailr.dev",
+  "repository": "https://github.com/emailr-dev/plugin",
+  "license": "MIT",
+  "keywords": [
+    "mcp",
+    "claude",
+    "emailr",
+    "oauth"
+  ],
+  "icon": "./.claude-plugin/icon.png"
+}

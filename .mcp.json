@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "emailr": {
+      "type": "http",
+      "url": "https://mcp.emailr.dev/mcp"
+    }
+  }
+}
